@@ -1,6 +1,6 @@
 {
   "name": "paynow-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A decoder for PayNow QR codes and payment information",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
